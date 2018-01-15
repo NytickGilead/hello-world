@@ -1,2 +1,6 @@
 # hello-world
-Just anither repository
+Just another repository
+
+Всем привки!
+
+Меня зовут Дмитрий Алапаев. Я люблю писать всякие смешные штуки на клавитуре.
