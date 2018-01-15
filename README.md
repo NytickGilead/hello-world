@@ -1,5 +1,5 @@
 # hello-world
-Just anither repository
+Just another repository
 
 Всем привки!
 
